@@ -1,0 +1,18 @@
+body{
+background-color: rgb(77, 112, 77); color:antiquewhite;
+}
+h1, h2, h3{
+    font-family: Copperplate, Verdana, sans-serif;
+}
+
+a{
+    font-size: large;
+}
+
+img{
+    border-style: solid;
+}
+
+hr{
+    color: antiquewhite;
+}
